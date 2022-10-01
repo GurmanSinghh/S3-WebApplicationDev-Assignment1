@@ -17,6 +17,18 @@
     "morgan": "~1.9.1",
     "popper.js": "^1.16.1",
     "save": "^2.5.0"
-  }
-  
+  },
+  "description": "Portfolio Assignment 1",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GurmanSinghh/comp229-assignment1.git"
+  },
+  "author": "Gurman Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GurmanSinghh/comp229-assignment1/issues"
+  },
+  "homepage": "https://github.com/GurmanSinghh/comp229-assignment1#readme"
 }
